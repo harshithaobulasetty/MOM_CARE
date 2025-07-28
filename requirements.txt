@@ -1,0 +1,15 @@
+Flask==2.0.1
+Flask-Session
+Werkzeug==2.0.1
+Jinja2==3.0.3  # Updated from 3.0.1 to resolve conflicts
+itsdangerous
+MarkupSafe
+google-generativeai>=0.3.1  # Updated to use latest version
+joblib
+geopy
+googlemaps
+python-dotenv==0.19.0
+gmaps
+Markdown==3.3.7
+markdown-it-py==3.0.0
+aiofiles<22.0  # Fixed version to avoid conflicts
